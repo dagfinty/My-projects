@@ -1,2 +1,8 @@
 # My-projects
 All my allowed projects are here you can clickk the links to view them thank you
+[ADDIS FINDER WEB APP](https://addisfinder.netlify.app/)
+[SMMA MOBILE UI DESIGN](https://incandescent-cuchufli-441fdb.netlify.app/)
+[GOBEZ AI WEB AND MOBILE APP](https://gobez-ai.netlify.app/)
+[ETHIO FITNESS REQUESTED LANDING PAGE](https://ethiofitnessite.netlify.app/)
+[SAINT JOSEPH SCHOOL REQUESTED LANDING PAGE](https://saint-joseph-addis.netlify.app/)
+[FLOW FREELANCING WEB APP](https://flow.rf.gd)
